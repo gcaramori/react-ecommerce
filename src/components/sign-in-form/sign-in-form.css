@@ -1,0 +1,15 @@
+.sign-in-container {
+  display: flex;
+  flex-direction: column;
+  width: 48%;
+}
+
+h2 {
+  margin: 10px 0;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}/*# sourceMappingURL=sign-in-form.css.map */
